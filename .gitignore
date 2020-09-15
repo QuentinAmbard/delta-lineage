@@ -1,0 +1,9 @@
+dependency-reduced-pom.xml
+*.class
+*.log
+*.iml
+.idea/
+target
+.DS_Store
+src/test/resources/debug
+src/test/resources/result
